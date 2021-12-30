@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 🌍
+@@ -19,9 +19,6 @@ The most used languages across my projects are:
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
+
+<div>  
+![Snake animation](https://github.com/songdaochuanshu/songdaochuanshu/blob/output/github-contribution-grid-snake.svg)
+</div>
