@@ -1,6 +1,6 @@
 ## Hi, I'm [Yuzu](http://www.yuzuchan.top/) 👋
 
-喜欢前端 😄
+前端CV工程师 😄
 
 <!--
 **xiaoyu-c/xiaoyu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
