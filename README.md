@@ -27,8 +27,9 @@
  
  [![Top Langs](https://github-stats.rgb39.top/api/top-langs/?username=Yuzu-io&theme=transparent&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### 📈 Activity Graph:
-
+-->
 
  ![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
  
