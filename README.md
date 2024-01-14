@@ -1,6 +1,6 @@
 ## Hi there, I am [Yuzu](http://www.yuzuchan.top/) 👋
 
-> A Front end developer from **GuangXi, China**.
+> A Front end developer enthusiast from **GuangXi, China**.
 
 ### 🏗️ Learning:
 
